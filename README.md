@@ -135,3 +135,11 @@ How likely am i to be attacked?
 - [CERT](https://sektorcert.dk)
 - [OWASP](https://owasp.org)
 
+
+# OSINT ( Open Source Intelligence)
+
+##### Authoriy
+##### Accuracy
+##### Obejctivity
+##### Coverage
+##### Validity
