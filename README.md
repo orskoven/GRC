@@ -315,5 +315,7 @@ How would you make a revision.
 
 ## Work with a well-known attack (group work) case WannaCry
 
+IMPORTANT : C-Suite language needs to understand the actions taken to mitigate WannaCry attack.
+
 
 
