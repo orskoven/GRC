@@ -124,13 +124,14 @@ How likely am i to be attacked?
   
 - Risks
 
-## Relevant links for Governance Focus
+## Relevant links for Governance Focus (DK)
 
+- [Attack Mitre](https://attack.mitre.org)
 - [Digitaliseringsstyrelsen](https://digst.dk)
 - [Erhvervsstyrelsen](https://erhvervsstyrelsen.dk)
 - [Datatilsynet](https://www.datatilsynet.dk)
 - [Dansk Standard](https://www.ds.dk/da?utm_source=Google&utm_medium=cpc&utm_campaign=Brand&gad_source=1&gad_campaignid=328242370&gbraid=0AAAAADqzrM6erMjkvFFZ-KyU7UtG_V-yg&gclid=Cj0KCQjwzt_FBhCEARIsAJGFWVmfQC1sjxFkWtJungS1dDmlpafymOqb6KGRI4p93DSRGpz2hTnlfCsaAtYVEALw_wcB)
 - [CFCS](https://www.cfcs.dk/en/about-us/cert/)
 - [CERT](https://sektorcert.dk)
-
+- [OWASP](https://owasp.org)
 
