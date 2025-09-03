@@ -170,6 +170,45 @@ How likely am i to be attacked?
 
 ###### Ensure all orders [evidence](https://en.wikipedia.org/wiki/Evidence_(law))  everything signed 
 
+### ISO27001 First Move
+
+Organisation is an organism. The size of organisation is growing and complexity is rising and maturity in the it leadership is often too low. 
+
+##### Who is responsible? 
+
+Firstly we must, as IT-professional, throw the ball to the CEO (in a well communicated manner towards our own boss). 
+
+We need the buy-in from the CEO, to get the authority to communicate to other employees the authority. 
+
+##### Make a Security Commitee
+
+Key stakeholders in the company must be assembled to point out and describe the most effective policies.
+
+##### Tasks of Security Commitee
+- Guidelines for making policies
+- Develop guidlines and rules for Risk Assesments for current and future systems.
+- Employee security to protect against employees.
+- Asset management and classification (electronic, spoken, paper).
+-  #### Annual Wheel, meetings, reports and action plans
+
+##### Organizational employees of IT-Security
+
+- ###### Information Security Commitee
+- ###### IT-Security Manager
+- Data Manager
+- Opertion Manager
+- Network Manager
+- DPO
+
+
+##### Statement of Applicability
+
+Annex A of [ISO27001 [Strategic]](https://en.wikipedia.org/wiki/ISO/IEC_27001) -> more specific in [ISO27002 [Tactical]](https://en.wikipedia.org/wiki/ISO/IEC_27002)
+
+- Legal Requirements can adjust controls to higher level of security/necessity.
+- Must always write why not control has been applied.
+- SoA enables 
+
 
 
 
