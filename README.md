@@ -81,6 +81,10 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 ###### APT
 Exploits the cache when the HDD read write operations stored in the RAM (for speed up pupose). Linux system handles in the HDD the control of the cache. The SYSTEM was compromised, and can compromise the HDD even though the OS has been wiped, and cannot be inspected without physical acess to the HDD bios. Kaspersky discovered this since they wiped the systems and they still were communicating with the internet in their lab. 
 
+One of the most serious and advanced persistent threats in modern history.
+ 
+
+###### We have to assume breach 
 
 ### Attack Surfaces
 
