@@ -65,5 +65,23 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 
 ## Exercise: Examine Exploits
 
+### What's [CaddyWiper](https://attack.mitre.org/software/S0693/)?
 
+-  "is a destructive data wiper that has been used in attacks against organizations in Ukraine since at least March 2022."
+-  Data Destruction[1] (https://blog.talosintelligence.com/threat-advisory-caddywiper/)
+- [ Disk Wipe: Disk Structure Wipe](https://www.welivesecurity.com/2022/03/15/caddywiper-new-wiper-malware-discovered-ukraine/)
+-  [File and Directory Discovery](https://www.threatdown.com/blog/double-header-isaacwiper-and-caddywiper/)
+-  [File and Directory Permissions Modification: Windows File and Directory Permissions Modification ](https://blog.talosintelligence.com/threat-advisory-caddywiper/)
+
+### Attack Surfaces
+
+
+#### CaddyWiper
+
+#### Stegosploit
+
+
+
+
+### Attack Vectors
 
