@@ -273,8 +273,27 @@ IMPORTANT MONITORING ## SIEM ## :
 - Operational Capabilities
 - Security Domains
 
-### AI ACT, DORA, NIS2 additional controls
 
+Further controls that could add on to ISO27002 93 controls:
+### [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng)
+### [AI ACT](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai) 
+### [DORA](https://www.eiopa.europa.eu/digital-operational-resilience-act-dora_en)
+### [NIS2](https://digital-strategy.ec.europa.eu/da/policies/nis2-directive) 
 
+### Important factors for defining policies and ongoing work
+
+- risk analysis - need for more policies
+- all 14 controls to analyse need for policies
+- control the Asset List: Any system need not covered
+- C-suit meeting conrolling need for special policies
+- Policy testing
+
+### Align All Policies
+
+- Emergency rules
+- Departments have specific rules based on location
+- Legislation have rules all must obey prior polocies obeying
+- Combine all policies and references in one place to ensure employees stay informed, not miss "must knows".
+- 
 
 
