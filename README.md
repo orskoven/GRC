@@ -108,13 +108,18 @@ We cannot implement the technologies alone, we have to orchestrate cross dicipli
 
 ## ISO27001 & 2 Ongoing Identifcation: 
 
-- Assets 
+- Assets
+  
 - Vulnerabilties
-   How exposed am i? 
+   How exposed am i?
+  
 - Threats
    How likely am i to be attacked?
+  
 - Internal organization
+  
 - Central Documents
+  
 - Risks
 
 
