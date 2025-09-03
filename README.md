@@ -294,6 +294,26 @@ Further controls that could add on to ISO27002 93 controls:
 - Departments have specific rules based on location
 - Legislation have rules all must obey prior polocies obeying
 - Combine all policies and references in one place to ensure employees stay informed, not miss "must knows".
-- 
+
+
+## CASE: Implement in an organisation
+
+## NEXT Lecture : mandatory presentation 
+
+Explain 4 Areas of controls
+
+- Organisational
+- People
+- Physical
+- Technological
+
+The idea of the Area
+Strategic Example for scoping the policy
+Pick a random control in the area - explain what its about (tactical) 
+How would you implement that control? Rules and procedures (Operational)?
+How would you make a revision.
+
+## Work with a well-known attack (group work) case WannaCry
+
 
 
