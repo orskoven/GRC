@@ -1,6 +1,7 @@
 # GRC
 This blog features all my notes regarding Governance Risk and Compliance while studying Cyber Security at KEA. 
-Primary Source: Eduction in Cyber Security at EK [James Hindsgavl Brink](https://katalog.kea.dk/course/4050401/2025-2026)
+
+- Primary Source: Eduction in Cyber Security at EK [James Hindsgavl Brink](https://katalog.kea.dk/course/4050401/2025-2026)
 
 ### Unintended threats
 
