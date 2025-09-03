@@ -21,7 +21,7 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 - Metaldoors ensure serverrooms.
 - Inactive gas is used to remove O2 (oxygen) from the room.
 - Aircondition, to cool down servers.
-- Humidity need to be present, no zero humidity.
+- Humidity need to be present, no zero humidity. Prefered (55 % Humidity).
 - 25 degrees celcius is ok temperature to keep down.
 - Cooling is not an issue.
 - Early warnings alerting on mobile device regardning all instruments, powersupply (GOOD IDEA).
