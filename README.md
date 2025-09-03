@@ -12,7 +12,7 @@ This blog features all my notes regarding Governance Risk and Compliance while s
 
 Hardware is expected to be maintained for 5 years, we need one to one equipment as bought, and service level agreements are made of 5 years duration.
 
-## Physical/Power Security
+## Physical/Power Security / Server Rooms / [Data Center Security](https://en.wikipedia.org/wiki/Data_center_security)
 
 - UPS (battery) always cells are optimized by Electricians (prof.).
 - Redundance in power supply. 
