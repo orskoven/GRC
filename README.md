@@ -68,15 +68,24 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 ### What's [CaddyWiper](https://attack.mitre.org/software/S0693/)?
 
 -  "is a destructive data wiper that has been used in attacks against organizations in Ukraine since at least March 2022."
--  Data Destruction[1] (https://blog.talosintelligence.com/threat-advisory-caddywiper/)
-- [ Disk Wipe: Disk Structure Wipe](https://www.welivesecurity.com/2022/03/15/caddywiper-new-wiper-malware-discovered-ukraine/)
+-  [Data Destruction](https://blog.talosintelligence.com/threat-advisory-caddywiper/)
+- [ Disk Wipe: Disk Structure Wipe ](https://www.welivesecurity.com/2022/03/15/caddywiper-new-wiper-malware-discovered-ukraine/)
 -  [File and Directory Discovery](https://www.threatdown.com/blog/double-header-isaacwiper-and-caddywiper/)
 -  [File and Directory Permissions Modification: Windows File and Directory Permissions Modification ](https://blog.talosintelligence.com/threat-advisory-caddywiper/)
+
+-  [Campaings](https://cloud.google.com/blog/topics/threat-intelligence/sandworm-disrupts-power-ukraine-operational-technology/)
+
+
+### [Triple Fantasy](https://www.colocationamerica.com/blog/kaspersky-uncovers-equation-group)
+
+###### APT
+Exploits the cache when the HDD read write operations stored in the RAM (for speed up pupose). Linux system handles in the HDD the control of the cache. The SYSTEM was compromised, and can compromise the HDD even though the OS has been wiped, and cannot be inspected without physical acess to the HDD bios. Kaspersky discovered this since they wiped the systems and they still were communicating with the internet in their lab. 
+
 
 ### Attack Surfaces
 
 
-#### CaddyWiper
+
 
 #### Stegosploit
 
