@@ -153,6 +153,21 @@ How likely am i to be attacked?
 
 ##### Who is attacking? : Pirate Bay co-founder colaborated  un-known Østerbro (Dansish) guy 
 
+##### Confidentiality [High-Impact] 
+
+ - Breach in the security and disclosure of 1,2 millions records of PII.
+   
+##### Integrity  [High-Impact] 
+
+ - IDS was not logging and active
+   
+ - No seperations and compartmentalisation of data-controllers system and data processor services. CSC systems mainframe partitioned and used for storing Rigspolitiets data.
+ - Mainframe not isolated from the internet
+ - [LPAR](https://en.wikipedia.org/wiki/Logical_partition) access to open to the internet and open to another datacontrollers operational needs. 
+ - network security was designed at the needs of the dataprocessor and not data controller.
+ - Containment of Schengen informationssytem data stored after processed and not needed any longer.
+
+
 
 
 
