@@ -147,7 +147,7 @@ How likely am i to be attacked?
 
 # Case : Rigspolitiet / national police hacked
 
-##### Under attack : Rigspolitiet / Systems of CSC (USA software-system developer) | Dansih Driver Licenses and shared EU-System for wanted persons and ID-papers (1,2 million) [SCHENGEN INFORMATION SYSTEMS](https://www.computerworld.dk/art/234507/det-store-csc-hack-datatilsynet-klar-med-haard-kritik-af-rigspolitiet) 
+##### Under attack : Rigspolitiet / Systems of [CSC](https://da.wikipedia.org/wiki/Computer_Sciences_Corporation) (USA software-system developer) | Dansih Driver Licenses and shared EU-System for wanted persons and ID-papers (1,2 million) [SCHENGEN INFORMATION SYSTEMS](https://www.computerworld.dk/art/234507/det-store-csc-hack-datatilsynet-klar-med-haard-kritik-af-rigspolitiet) 
 
 ##### Security measures were low 
 
