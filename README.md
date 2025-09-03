@@ -60,5 +60,10 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 - Denmark has been critised by [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore) cable working together with the 9 eyes countries.
 - Russian has [TOBOL GPS](https://www.gpsworld.com/russian-electronic-warfare-base-linked-to-gps-jamming-across-baltic-region/) jamming tools for targeted GPS jamming attacks Kaliningrad.
 - [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet) 
+- Difficult to ensure no spys in hiren in big organisations.
+
+
+## Exercise: Examine Exploits
+
 
 
