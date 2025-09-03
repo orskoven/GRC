@@ -138,8 +138,8 @@ How likely am i to be attacked?
 
 # OSINT ( Open Source Intelligence)
 
-##### Authoriy
-##### Accuracy
-##### Obejctivity
-##### Coverage
-##### Validity
+- Authoriy
+- Accuracy
+- Obejctivity
+- Coverage
+- Validity
