@@ -317,5 +317,13 @@ How would you make a revision.
 
 IMPORTANT : C-Suite language needs to understand the actions taken to mitigate WannaCry attack.
 
+#### Answer
+
+- Reasearch the validity of the attack (triangulate the information) look for cross references.
+- How many systems where impacted
+- have any preventative measures already been taken to mitigate (complying with the policies for incident/ non-compliant actions)? 
+- What is the criticality
+- Can Operations still ongo?
+ 
 
 
