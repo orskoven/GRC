@@ -93,8 +93,26 @@ One of the most serious and advanced persistent threats in modern history.
 
 #### Stegosploit
 
+Embedded picture with malware.
 
 
+# ISO27001 & ISO27002 
 
-### Attack Vectors
+###### Change management is hard
+
+When hired for it-security we will find change management and implementing the more secure practices as the hardest part of the job, which is often the standard job when hired from college/ junior cyber security governance employee. 
+
+C-Suit, leaders are "busy" and often hard to get to listen. 
+
+We cannot implement the technologies alone, we have to orchestrate cross diciplinary (HR, IT, Operations, Leaders at all levels). 
+
+## ISO27001 & 2 Ongoing Identifcation: 
+
+##### Assets 
+##### Vulnerabilties
+##### Risks
+##### Threats
+##### Internal organization
+##### Central Documents
+
 
