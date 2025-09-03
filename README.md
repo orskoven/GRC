@@ -51,3 +51,14 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 - All Airports in denmark are equipted with visual landing systems (manuel landing) . But finland is harder hit with only GPS landing systems.
 
 
+## Frameworks of defence
+
+- USA has released Ghidra free NSA tool for reverse engineering and Kali.
+- Ransomeware attacks are handlede by the attacker as a "Business".
+- Industry of attack on the Dark Web.
+- Surveilance 5 (Common wealth) - 9 (Denmark included) - 14 eyes (Sweden Germany)
+- Denmark has been critised by xkeyscore cable working together with the 9 eyes countries.
+- Russian has TOBOL GPS jamming tools for targeted GPS jamming attacks Kaliningrad.
+- [Styxnet](https://en.wikipedia.org/wiki/Stuxnet) 
+
+
