@@ -59,6 +59,6 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 - Surveilance 5 (Common wealth) - 9 (Denmark included) - 14 eyes (Sweden Germany)
 - Denmark has been critised by xkeyscore cable working together with the 9 eyes countries.
 - Russian has TOBOL GPS jamming tools for targeted GPS jamming attacks Kaliningrad.
-- [Styxnet](https://en.wikipedia.org/wiki/Stuxnet) 
+- [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet) 
 
 
