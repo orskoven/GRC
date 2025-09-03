@@ -212,7 +212,36 @@ Annex A of [ISO27001 [Strategic]](https://en.wikipedia.org/wiki/ISO/IEC_27001) -
 
 
 
+### SCOPING ISO27001
 
+ISO27001 [CERTIFIED] - includes - ISO27002 are tighly coupled 
+
+- Risk owner in larger companies
+- Management
+- Employees
+- Operation Responsible
+- Network Responsible
+- Leaders and Managers
+- more
+
+#### Security Policy
+
+- ISMS and the org
+- Employee Safety
+- Assets and Classification
+- Access Control
+- Methode for Risk Assesment
+- Communication Plan
+- Supplier Management
+- Development and Test
+- Operation Safety
+- Perimeter Safety
+- Supplier Management
+- Security Incidents and IT-Contigency + Incident Response
+- Annual Reports
+
+Remember to describe all incident plans. 
+How to go from incident back to normal operation. (Remember!)
 
 
 
