@@ -25,5 +25,29 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 - 25 degrees celcius is ok temperature to keep down.
 - Cooling is not an issue.
 - Early warnings alerting on mobile device regardning all instruments, powersupply (GOOD IDEA).
+- Remote backup (important) - companies and people were vanished in 9-11 twin tower attack, and remote backups are critical.
+- Norway has made atom-bomb safe vaults and backups in the mountains of norway.
+- Split operations (2-sites) : remember to mirror eachother (complete redundant), perhaps lower the bandwith. Car security we have airbag and seatbelt.
+- Consider wireless connections as backup for internet connections alwyas up.
+
+
+## Intended threats
+
+- EU, USA, China - are equally enemies in peace time regarding espionage.
+- Advanced encryption used in Danish Foreign Affairs (active in the earlier Jugoslavian wars) technologies were being circumvented by backdoors to listen to high ranking politicians.
+- Confidential about how we score things, and buy big military equipment, and that when
+- Hacktivism -> anonymous, Terrists, Journalish
+- Show-off hackers
+- Internal / External fraud
+
+ Governments
+- Economic spionage
+- Intelligence for the sake of National Security
+- Investigation by Military or Police
+- Act of war
+
+- USA iraq, one week prior to attack jam all big radiosender, tv's phone communication, to disable Iraq in communication reasonably.
+- Jamming at Lolland (Denmark) Kaleningrad. Jam equipment. Russian forces were trying to jam sonars listening (FMI's Dalo Saildrones survailing russians) to cable destroyer in the baltic sea. (Alexander Frolov ships where jamming) 
+- All Airports in denmark are equipted with visual landing systems (manuel landing) . But finland is harder hit with only GPS landing systems.
 
 
