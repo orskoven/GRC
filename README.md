@@ -47,18 +47,18 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 - Act of war
 
 - USA iraq, one week prior to attack jam all big radiosender, tv's phone communication, to disable Iraq in communication reasonably.
-- Jamming at Lolland (Denmark) Kaleningrad. Jam equipment. Russian forces were trying to jam sonars listening (FMI's Dalo Saildrones survailing russians) to cable destroyer in the baltic sea. (Alexander Frolov ships where jamming) 
+- Jamming at Lolland (Denmark) Kaleningrad. Jam equipment. Russian forces were trying to jam sonars listening (FMI's Dalo Saildrones survailing russians) to cable destroyer in the baltic sea. ([Alexandr Frolov](https://www.marinetraffic.com/en/ais/details/ships/shipid:4937128/mmsi:273542930/imo:0/vessel:ALEKSANDR_FROLOV) ships where jamming) 
 - All Airports in denmark are equipted with visual landing systems (manuel landing) . But finland is harder hit with only GPS landing systems.
 
 
 ## Frameworks of defence
 
-- USA has released Ghidra free NSA tool for reverse engineering and Kali.
+- USA has released [Ghidra](https://en.wikipedia.org/wiki/Ghidra) free NSA tool for reverse engineering and Kali.
 - Ransomeware attacks are handlede by the attacker as a "Business".
 - Industry of attack on the Dark Web.
 - Surveilance 5 (Common wealth) - 9 (Denmark included) - 14 eyes (Sweden Germany)
-- Denmark has been critised by xkeyscore cable working together with the 9 eyes countries.
-- Russian has TOBOL GPS jamming tools for targeted GPS jamming attacks Kaliningrad.
+- Denmark has been critised by [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore) cable working together with the 9 eyes countries.
+- Russian has [TOBOL GPS](https://www.gpsworld.com/russian-electronic-warfare-base-linked-to-gps-jamming-across-baltic-region/) jamming tools for targeted GPS jamming attacks Kaliningrad.
 - [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet) 
 
 
