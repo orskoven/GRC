@@ -201,13 +201,13 @@ Key stakeholders in the company must be assembled to point out and describe the 
 - DPO
 
 
-##### [Statement of Applicability](https://en.wikipedia.org/wiki/SOA)
+##### [Statement of Applicability](https://www.ds.dk/media/dy1bzsbs/foss-statement-of-applicability-public.pdf?srsltid=AfmBOorYIZMcnjc84qyaQGkoJMXYob20dIoepjH75fwqpo4QZE6ICpZf)
 
 Annex A of [ISO27001 [Strategic]](https://en.wikipedia.org/wiki/ISO/IEC_27001) -> more specific in [ISO27002 [Tactical]](https://en.wikipedia.org/wiki/ISO/IEC_27002)
 
 - Legal Requirements can adjust controls to higher level of security/necessity.
 - Must always write why not control has been applied.
-- [SoA](https://en.wikipedia.org/wiki/SOA) enables 
+- [SoA](https://www.ds.dk/media/dy1bzsbs/foss-statement-of-applicability-public.pdf?srsltid=AfmBOorYIZMcnjc84qyaQGkoJMXYob20dIoepjH75fwqpo4QZE6ICpZf) enables 
 
 
 
