@@ -242,6 +242,39 @@ ISO27001 [CERTIFIED] - includes - ISO27002 are tighly coupled
 
 Remember to describe all incident plans. 
 How to go from incident back to normal operation. (Remember!)
+We need a guide to act reasonable.
+
+###### Rules and Penalty for violating policies!
+
+As security advisors, we can order the manager to fire people, since they get a salary compensation for firing.
+
+
+#### ISO27002:2022
+
+Newly revised to match Cyber Security & Cloud growing need in ISMS controls. 
+
+- People Controls
+- Physical Controls
+- Technological Controls (most controls)
+- Organisational Controls
+
+Mapping 27002:2013
+
+#### Technological Controls
+IMPORTANT MONITORING ## SIEM ## :
+- Logging (we need to log) SIEM products analyse logs [Important Controls]. False negative / False positives. SWEET SPOT.
+
+
+###### 5 Attributes
+
+- Control Types
+- Information Security Properties
+- Cybersecurity Properties
+- Operational Capabilities
+- Security Domains
+
+### AI ACT, DORA, NIS2 additional controls
+
 
 
 
