@@ -110,9 +110,11 @@ We cannot implement the technologies alone, we have to orchestrate cross dicipli
 
 - Assets 
 - Vulnerabilties
-- Risks
+   How exposed am i? 
 - Threats
+   How likely am i to be attacked?
 - Internal organization
 - Central Documents
+- Risks
 
 
