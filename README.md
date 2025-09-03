@@ -44,7 +44,7 @@ Hardware is expected to be maintained for 5 years, we need one to one equipment 
 - Economic spionage
 - Intelligence for the sake of National Security
 - Investigation by Military or Police
-- Act of war
+- [Act of war](https://en.wikipedia.org/wiki/Casus_belli)
 
 - USA iraq, one week prior to attack jam all big radiosender, tv's phone communication, to disable Iraq in communication reasonably.
 - Jamming at Lolland (Denmark) Kaleningrad. Jam equipment. Russian forces were trying to jam sonars listening (FMI's Dalo Saildrones survailing russians) to cable destroyer in the baltic sea. ([Alexandr Frolov](https://www.marinetraffic.com/en/ais/details/ships/shipid:4937128/mmsi:273542930/imo:0/vessel:ALEKSANDR_FROLOV) ships where jamming) 
