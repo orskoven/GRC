@@ -1,4 +1,13 @@
 # GRC
+
+
+##### 🎥 Watch [SOCURITY](https://www.youtube.com/@Socurity)
+##### 📖 Read [GRC](https://orskoven.github.io/GRC/)
+##### 📖 Read [Software Security](https://github.com/orskoven/Software-Security-by-Socurity/blob/main/README.md)
+##### 📖 Read [Mobile Device Security](https://creators.spotify.com/pod/profile/simon-rskov/episodes/AI--NLP-Event-Stock-Prediction-Data-Cleaning-e2tiptb) 
+##### 🗨️ [Podcast](https://creators.spotify.com/pod/profile/simon-rskov/episodes/AI--NLP-Event-Stock-Prediction-Data-Cleaning-e2tiptb) 
+
+
 This blog features all my notes regarding Governance Risk and Compliance while studying Cyber Security at KEA. 
 
 - Primary Source: Education in Cyber Security at EK [James Hindsgavl Brink](https://katalog.kea.dk/course/4050401/2025-2026)
