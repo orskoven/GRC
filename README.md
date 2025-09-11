@@ -7,6 +7,10 @@
 ##### 📖 Read [Mobile Device Security](https://creators.spotify.com/pod/profile/simon-rskov/episodes/AI--NLP-Event-Stock-Prediction-Data-Cleaning-e2tiptb) 
 ##### 🗨️ [Podcast](https://creators.spotify.com/pod/profile/simon-rskov/episodes/AI--NLP-Event-Stock-Prediction-Data-Cleaning-e2tiptb) 
 
+#TODO
+
+- [ ] Describe WannaCry NAS backup recovery plans for the case
+- [ ] 
 
 This blog features all my notes regarding Governance Risk and Compliance while studying Cyber Security at KEA. 
 
