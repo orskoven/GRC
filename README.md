@@ -10,7 +10,105 @@
 
 This blog features all my notes regarding Governance Risk and Compliance while studying Cyber Security at KEA. 
 
+
 - Primary Source: Education in Cyber Security at EK [James Hindsgavl Brink](https://katalog.kea.dk/course/4050401/2025-2026)
+
+
+### Case;: WannaCry Ransomeware attack  Implementation of ISO27001 + ISO27002
+
+Sources: ISO27001:2023 + ISO27002:2022 Document, [NIST CSF 2.0](https://www.nist.gov/cyberframework/informative-references), Lecturer from James H. Brink 
+
+### CASE Description
+
+Beside your job as IT-manager, you are now also IT-Security responsible, since the company want to implement:
+
+IT-security ISO27001, so perhaps you ought to read it some day…
+
+• You just got that title and hasn’t yet meet with anyone – or done anything. No one bother since we are busy
+keeping the business going…
+
+• Your company has around 500 employees and all activities involves email, databases and even the phones are
+depended on the call center servers. In other words: All business is going down if IT is going down
+
+• On your way to lunch an employee calls you and explain the files on the common network drive are changing
+names and cannot be opened…
+
+• The employee shows you the file manager and you freeze…. You know exactly what this is: This is a successfully
+penetration, and a ransomware has launched: WannaCry. And in every folder there is a text file claiming that you
+only get you files back if you pay ransom in bitcoins …
+
+• Thankfully the backup-procedures run every night – hopefully they work? And you hope the backup is air-gapped
+in its design
+
+Author: JHB James Hindsgavl Brink – Lektor i IT-Sikkerhed – James.Brink@gmx.com
+
+Glossary: 
+
+<-> = dependency
+
+1. Step: Examine and Establish the Organisational Context
+ 
+ISO27001 4.1 (Mandatory) <-> ISO38001:2018 5.4.1 & 6.3.3 External and Internal Context
+
+| Internal Stakeholders | External Stakeholders | Cyber Security Expectations | 
+| ----------- | ----------- | ----------- |
+| Call Center | - | Expect systems and servers for call handling are available 99% of time    |
+| 500 employees | - | Changes to IT-proceses are easy to adopt, availability of 99% emails and documents / files   |
+| C-Suite | - | Expect their departments deliver on base KPI's, expect that growth of business it-related processes are possbile, transparency in change management of IT processes can comply with standards that are familiar to the and devlops on current company standards, policies and procedures, satisfied employees |
+| Board | - |  |
+| Managers | - |  |
+| HR | - | Store PII and be aware of regulatory compliance for conducting proactive recruiment |
+| Precurement | - | easily understand and align porcess for aquiring systems with organisations ISMS.   |
+| Marketing | - | Need available timely  information for sharing possibilities that can attract employees, busniess partners and customers.  |
+| - | Business Partners |  |
+| - | Legal/Regulatory  |  |
+
+  
+
+### WannaCry 
+
+Available information: 
+
+- IT is highly impacted and is highly critical to the business
+- Ongoing succesful penetration attack from WannaCry
+- File manager is impacted
+- File restore is "possible" through bit coin payment
+- Backup-procedures are present
+- Airgap is unlikely present
+
+####Risk Assesment on incident WannaCry (Ransomeware):
+
+If ISO was timely implemented we should have a documented incident response procedure according to control ISO27002:2022 - Clause 5.26 
+- Response to information security incidents
+
+Clause 5.26 ISO27002:2022 :
+
+We will ask a competent designated team to respond according to Clause 5.24 Incident Management Procedures: 
+
+The Incident Management Team must:
+ - Understand our priorities for handling security incidents
+ - Resolution time frame based on potential consequences and severity.
+
+
+Prior to WannaCry. Management has created a incident management plan accoriding to Clause 5.24 Incident Management Procedures, which the designated teams follws: 
+
+
+- [x] Is it a information security event?
+- [ ] Has the event been monitoried, detected, classified, analysed and reported (human/automatic)
+- [ ] Has the event been reported, escalated correctly to the end?
+- [ ] Has crisis management been activated accordingly?
+- [ ] Has continuity plans been activated?
+- [ ] Has controlled recovery from incident been conducted?
+- [ ] Has communication to internal and external insterested parties been executed?
+- [ ] Has coordination with internal and external interested parties (authorities, external interest groups and forums, suppliers and clients been made?
+- [ ] Has logging of incident management activities been activated and correctly made?
+- [ ] Has root cause analysis or post-mortem procedures been made?
+- [ ] Has identification of lessons learned and any improvements to the incident managment procedures or information security controls in general that are required been made?
+
+
+
+
+
 
 ### Unintended threats
 
@@ -335,6 +433,7 @@ IMPORTANT : C-Suite language needs to understand the actions taken to mitigate W
 - have any preventative measures already been taken to mitigate (complying with the policies for incident/ non-compliant actions)? 
 - What is the criticality
 - Can Operations still ongo?
+
  
 
 
