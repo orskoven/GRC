@@ -105,16 +105,91 @@ Prior to WannaCry. Management has created a incident management plan accoriding 
 - [ ] Has root cause analysis or post-mortem procedures been made?
 - [ ] Has identification of lessons learned and any improvements to the incident managment procedures or information security controls in general that are required been made?
 
-Implementation of incident procedure.
+##### Clause 5.24 Reporting Procedures
 
-## Case WannCry Implementation:
+- [ ] Actions taken in case of an information security (IS) event
+- [ ] Use of incident forms to support personnel to perform all necessary actions when reporting information security incidents
+- [ ] suitable feedback processes to ensure that thos persons reporting IS-events are notified to the extent possible of outcomes after the issues has been addressed and closed
+- [ ] Created of incidents reports
 
-- We get reported event of files names permutation
-![Uploading Screenshot 2025-09-11 at 13.28.53.png…]()
+## Clause 6.8 Information security event reporting
 
+Situtions for reporting IS-events:
+- [ ] ineffective information security controls
+- [ ] breach of information confidentiality, integrity or availability expectations
+- [ ] human errors
+- [ ] non-compliance with the information security policy, topic-specific policies or applicable standards
+- [ ] breaches of physical security measures
+- [ ] system changes that have not gone through the change management process
+- [ ] malfunctions or other anomalous system behavior of software or hardware
+- [ ] access violations
+- [ ] vulnerabilities
+- [ ] suspected malware functions
+
+🔺 Avoid testing and proving vulnerabilities.
+
+- ISO27035-1:2023 Information technology - security incident management
+
+### Case [Wannacry](https://da.wikipedia.org/wiki/WannaCry_ransomware_angreb)
+
+Brief WannaCry: 
+
+ - Ransomeware
+ - Microsoft Windows
+ - MS17-010 vulnerabilty
+ - Targets Protocol: SMB(Server Message Block)
+ - Exploited TCP port 445 internet and LAN
+ - EternalBlue Exploit (NSA developed)
+ - Mitigation : KillSwitch can stop spread
+
+
+We examine the list above and find that the case applies to:
+- [X] suspected malware functions
+
+We include this in the report:
+
+Type of incident : suspected malware functions ransomeware
+Date and Time : Lunch-time
+Location : Every folder of Common Network Drive
+Severity : HIGH
+
+Discovery Methode : Visual inspection of files names on filemanager, every folder on Common Network Drive .
+
+Evidence: 
+
+ - [Witness] Employee: "files on the common network drive are changing names and cannot be opened…"
+ -  [Text file] in every folder: claiming that you
+only get you files back if you pay ransom in bitcoins …
+[WannaCry Example](https://github.com/orskoven/GRC/blob/main/Screenshot%202025-09-11%20at%2013.30.20.png)
+
+Impact & Affacted Assets:
+
+Data involved: Data on [common network drive](https://en.wikipedia.org/wiki/Network-attached_storage)
+NAS server (default) redundant storage containers or RAID partion (not ransomeware protected).
+Uses Protocols: NFS, SMB, AFP.
+
+Implement -> 3-2-1 Backup strategy 
+ - 
 ## Is it an information security event?
 
 
+### Immediate Mitigation of WannaCry/Ransomeware 
+
+From [National Cyber Security Centre](https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks)
+
+Steps to take if your organisation is already infected
+
+If your organisation has already been infected with malware, these steps may help limit the impact:
+
+Immediately disconnect the infected computers, laptops or tablets from all network connections, whether wired, wireless or mobile phone based.
+In a very serious case, consider whether turning off your Wi-Fi, disabling any core network connections (including switches), and disconnecting from the internet might be necessary.
+Reset credentials including passwords (especially for administrator and other system accounts) - but verify that you are not locking yourself out of systems that are needed for recovery.
+Safely wipe the infected devices and reinstall the OS.
+Before you restore from a backup, verify that it is free from any malware. You should only restore from a backup if you are very confident that the backup and the device you're connecting it to are clean.
+Connect devices to a clean network in order to download, install and update the OS and all other software.
+Install, update, and run antivirus software.
+Reconnect to your network.
+Monitor network traffic and run antivirus scans to identify if any infection remains.
 
 
 
