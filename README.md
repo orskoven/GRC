@@ -76,7 +76,7 @@ Available information:
 - Backup-procedures are present
 - Airgap is unlikely present
 
-####Risk Assesment on incident WannaCry (Ransomeware):
+#### Risk Assesment on incident WannaCry (Ransomeware):
 
 If ISO was timely implemented we should have a documented incident response procedure according to control ISO27002:2022 - Clause 5.26 
 - Response to information security incidents
@@ -93,7 +93,7 @@ The Incident Management Team must:
 Prior to WannaCry. Management has created a incident management plan accoriding to Clause 5.24 Incident Management Procedures, which the designated teams follws: 
 
 
-- [x] Is it a information security event?
+- [x] Is it an information security event?
 - [ ] Has the event been monitoried, detected, classified, analysed and reported (human/automatic)
 - [ ] Has the event been reported, escalated correctly to the end?
 - [ ] Has crisis management been activated accordingly?
@@ -104,6 +104,18 @@ Prior to WannaCry. Management has created a incident management plan accoriding 
 - [ ] Has logging of incident management activities been activated and correctly made?
 - [ ] Has root cause analysis or post-mortem procedures been made?
 - [ ] Has identification of lessons learned and any improvements to the incident managment procedures or information security controls in general that are required been made?
+
+Implementation of incident procedure.
+
+## Case WannCry Implementation:
+
+- We get reported event of files names permutation
+![Uploading Screenshot 2025-09-11 at 13.28.53.png…]()
+
+## Is it an information security event?
+
+
+
 
 
 
