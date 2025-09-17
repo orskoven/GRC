@@ -17,6 +17,29 @@ This blog features all my notes regarding Governance Risk and Compliance while s
 
 - Primary Source: Education in Cyber Security at EK [James Hindsgavl Brink](https://katalog.kea.dk/course/4050401/2025-2026)
 
+### A areas of controls
+
+- People Controls
+- Organizational Controls
+- Physical Controls
+- Technological Controls
+
+Homework note: Det her kunne man gøre og det her vil understøtte foranstaltningen.
+
+### Remember changes to ISO standards
+
+Information technology is more than just a computer.
+All things that are carrying information is regarded within the scope of ISMS/ISO27001
+
+- A.5.7 - Threat Intelligence
+- A.5.30 - ICT readiness for
+- A.8.16 - Monitoring Activities
+- A.8.11 - Data Masking (anonymisation & pseudonomization)
+- A.8.9 - Configuration Management
+
+We have an ISMS - We have this threat skærpe ikke udvande 
+
+
 
 ### Case;: WannaCry Ransomeware attack  Implementation of ISO27001 + ISO27002
 
