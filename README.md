@@ -32,10 +32,7 @@ We have 4 different risk mitigation strategies:
 - Transfer Risk 
 - Reduce Risk
 
-  Governance
-  Protection
-  Defense
-  Resilience
+  | Governance | Protection | Defense | Resilience |
   
 
 
