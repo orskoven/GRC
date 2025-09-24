@@ -7,6 +7,11 @@
 ##### 📖 Read [Mobile Device Security](https://creators.spotify.com/pod/profile/simon-rskov/episodes/AI--NLP-Event-Stock-Prediction-Data-Cleaning-e2tiptb) 
 ##### 🗨️ [Podcast](https://creators.spotify.com/pod/profile/simon-rskov/episodes/AI--NLP-Event-Stock-Prediction-Data-Cleaning-e2tiptb) 
 
+
+
+
+
+
 #TODO
 
 - [ ] Describe WannaCry NAS backup recovery plans for the case
@@ -16,6 +21,41 @@ This blog features all my notes regarding Governance Risk and Compliance while s
 
 
 - Primary Source: Education in Cyber Security at EK [James Hindsgavl Brink](https://katalog.kea.dk/course/4050401/2025-2026)
+
+
+## RISK 
+
+We have 4 different risk mitigation strategies: 
+
+- Accept Risk
+- Avoid Risk
+- Transfer Risk 
+- Reduce Risk
+
+  Governance
+  Protection
+  Defense
+  Resilience
+  
+
+
+
+Start by identifying:
+1. Vulnerabilities
+
+Identify the:
+2. Threats
+
+3. Match controls to threats and vulnerabilities = attack surfacesses
+
+4. Use the asset list and find asset owner
+
+
+Calculate the risk of the asset and control mitigating the threat
+
+
+
+
 
 ### A areas of controls
 
