@@ -12,7 +12,7 @@
 
 
 
-#TODO
+# TODO
 
 - [ ] Describe WannaCry NAS backup recovery plans for the case
 - [ ] 
